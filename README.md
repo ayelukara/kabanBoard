@@ -1,0 +1,1 @@
+Welcome to KanbanMaster! A dynamic Kanban board inspired by Akiane Kramarik's 'Missing Years' painting. Organize tasks efficiently with four headings and drag-and-drop functionality. Explore the code and features below. #KanbanMaster #WebDevelopment #Productivity
